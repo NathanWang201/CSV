@@ -1,7 +1,10 @@
 file, PostReleaseBug
 examples,
+examples/activeqt,
 examples/activeqt/comapp,
 examples/activeqt/comapp/main.cpp,0
+examples/activeqt/dotnet,
+examples/activeqt/dotnet/wrapper,
 examples/activeqt/dotnet/wrapper/lib,
 examples/activeqt/dotnet/wrapper/lib/networker.cpp,22
 examples/activeqt/dotnet/wrapper/lib/networker.h,11
