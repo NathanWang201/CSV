@@ -1,0 +1,4 @@
+file,PostReleaseBug
+examples/activeqt/comapp/main.cpp,222
+examples/activeqt/dotnet/wrapper/lib/networker.cpp,333
+examples/activeqt/dotnet/wrapper/lib/networker.h,111
